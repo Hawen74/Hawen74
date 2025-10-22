@@ -27,8 +27,7 @@ I love building cool projects and learning new technologies. 🚀
 
 ## 🌐 Connect with me
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Hawen74)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://x.com/Hawen145])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huylelns@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huyleln@gmail.com)
 
 ---
 
